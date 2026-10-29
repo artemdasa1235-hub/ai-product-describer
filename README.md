@@ -38,5 +38,4 @@ streamlit run app.py
 
 ## Автор
 
-[Artem](https://github.com/artemdasa1235-hub) — учебный проект, демонстрирующий
-практическую связку «компьютерное зрение + LLM» для автоматизации контента маркетплейсов.
+[Artem](https://github.com/artemdasa1235-hub) 
